@@ -1,0 +1,63 @@
+.section__banner {
+    background: #0D1A75;
+    padding: 65px 75px;
+    text-align: center;
+    font-size: 32px;
+    font-weight: 700;
+    height: 350px;
+    width: 100%;
+}
+
+.banner__content {
+    padding: 65px 75px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 31.5px;
+}
+
+.banner__content h1 {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+.aboutus__btn {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 31.5px;
+    padding: 5px 20px;
+    border-radius: 40px;
+    background: #4079CA;
+}
+
+.content {
+    margin-bottom: 35px;
+}
+
+.card-content {
+    padding: 0 40px 30px 30px;
+}
+
+.menu__contents {
+    color: #151515;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 31.5px;
+}
+
+.service__logo {
+    padding-bottom: 30px;
+}
+
+.service__content {
+    padding-bottom: 50px;
+}
+
+.content__section {
+    display: flex;
+    gap: 75px;
+    margin-bottom: 50px;
+}

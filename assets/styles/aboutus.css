@@ -1,0 +1,147 @@
+.section__banner {
+	background: #0D1A75;
+	padding: 65px 75px;
+	text-align: center;
+	font-size: 32px;
+	font-weight: 700;
+	height: 350px;
+	width: 100%;
+	margin-bottom: 100px;
+}
+
+.banner__content {
+    padding: 65px 75px;
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 31.5px;
+}
+.banner__content h1 {
+    color: #FFF;
+    font-size: 32px;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+.btn {
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 31.5px;
+    padding: 5px 20px;
+    border-radius: 40px;
+    background:  #4079CA;
+}
+
+.content {
+    margin-bottom: 35px;
+}
+
+/* menyu block */
+
+.aside__menu {
+    max-width: 317px;
+    width: 100%;
+    border-radius: 5px;
+    background: rgba(13, 26, 117, 0.06);
+    height: 530px;
+}
+
+ .aside__menu a {
+     color: #151515;
+     font-size: 18px;
+     font-weight: 700;
+     line-height: 31.5px;
+     margin-right: 238px;
+     border-bottom: 1px solid rgba(21, 21, 21, 0.30);
+     padding-bottom: 20px;
+ }
+
+ .aside__menu li {
+    padding-bottom: 20px;
+ }
+
+.card-content {
+    padding: 30px 50px 50px 50px;
+}
+
+.menu-list li a.active,
+.menu-list li a:hover {
+    color: #0D1A75;
+}
+
+.content__section {
+    display: flex;
+    gap: 75px;
+}
+
+.menu__content {
+    color: #151515;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 31.5px;
+    border-bottom: 1px solid rgba(21, 21, 21, 0.12);
+    padding-bottom: 75px;
+    padding-top: 75px;
+}
+
+.strong {
+    color: #4079CA;
+}
+
+.aside__title {
+    color: #0D1A75;
+    font-size: 32px;
+    font-weight: 700;
+    padding-bottom: 30px;
+}
+
+.history {
+    color: #0D1A75;
+    font-weight: 700;
+}
+
+.custom__links {
+    color: #4079CA;
+}
+
+.custom__link {
+    color: #0D1A75;
+}
+
+
+.aside__tlink {
+    color: #4079CA;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 33px;
+}
+
+.contents li {
+    list-style: disc;
+}
+
+.logo_holder {
+    border-radius: 5px;
+    border: 1px solid rgba(21, 21, 21, 0.10);
+    background: #FFF;
+    max-width: 200px;
+    width: 100%;
+    display: inline-block;
+    padding: 18px 40px;
+    margin-right: 20px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.images__content {
+    display: inline-block;
+}
+
+.img__holder {
+        border-radius: 20px;
+        position: relative;
+        overflow: hidden;
+        margin-bottom: 30px;
+}
+
